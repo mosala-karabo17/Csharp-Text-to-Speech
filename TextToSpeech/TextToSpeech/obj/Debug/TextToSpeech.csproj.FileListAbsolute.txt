@@ -1,0 +1,15 @@
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojAssemblyReference.cache
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\MainWindow.g.cs
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\App.g.cs
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech_MarkupCompile.cache
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech_MarkupCompile.lref
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\MainWindow.baml
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.g.resources
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Karabo\source\repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
